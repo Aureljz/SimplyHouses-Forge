@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "simply_houses:taiga_house",
+      "weight": 1
+    },
+    {
+      "structure": "simply_houses:taiga_forge",
+      "weight": 1
+    },
+    {
+      "structure": "simply_houses:taiga_inn",
+      "weight": 2
+    },
+    {
+      "structure": "simply_houses:taiga_woodcutter",
+      "weight": 2
+    }
+  ],
+  "placement": {
+    "salt": 9928661,
+    "spacing": 20,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

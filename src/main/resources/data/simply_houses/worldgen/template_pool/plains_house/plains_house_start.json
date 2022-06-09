@@ -1,0 +1,15 @@
+{
+  "name": "simply_houses:plains_house/plains_house_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "simply_houses:plains_house/plains_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

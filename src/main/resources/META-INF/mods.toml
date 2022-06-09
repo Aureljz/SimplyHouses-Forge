@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+
+modId="simply_houses"
+version="1.1.1-1.19"
+displayName="Simply Houses"
+logoFile="logo.png"
+authors="Aurelj, DiamondTown & Zephyrusj"
+description='''
+Simply Houses is a mod that generates a bunch of simple structures, meant to provide early-game accomodation or as a way to enhance your worlds. These structures are mostly passive and often include useful loot.
+'''
+
+[[dependencies.simply_houses]] #optional
+modId="forge"
+mandatory=true
+versionRange="[41,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.simply_houses]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19, 1.20)"
+    ordering="NONE"
+    side="SERVER"

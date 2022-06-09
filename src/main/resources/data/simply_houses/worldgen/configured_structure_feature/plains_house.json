@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:village",
+
+  "config": {
+    "start_pool": "simply_houses:plains_house/plains_house_start",
+    "size": 7
+  },
+  "biomes": "#simply_houses:has_structure/plains_house_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {
+
+  }
+}

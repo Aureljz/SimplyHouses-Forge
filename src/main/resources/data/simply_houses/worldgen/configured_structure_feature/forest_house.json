@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:village",
+
+  "config": {
+    "start_pool": "simply_houses:forest_house/forest_house_main",
+    "size": 1
+  },
+  "biomes": "#simply_houses:has_structure/forest_house_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {
+
+  }
+}

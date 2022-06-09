@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:village",
+
+  "config": {
+    "start_pool": "simply_houses:taiga_forge/taiga_forge_main",
+    "size": 7
+  },
+  "biomes": "#simply_houses:has_structure/taiga_forge_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {
+
+  }
+}

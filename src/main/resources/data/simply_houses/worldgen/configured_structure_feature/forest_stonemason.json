@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:village",
+
+  "config": {
+    "start_pool": "simply_houses:forest_stonemason/forest_stonemason_main",
+    "size": 7
+  },
+  "biomes": "#simply_houses:has_structure/forest_stonemason_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {
+
+  }
+}

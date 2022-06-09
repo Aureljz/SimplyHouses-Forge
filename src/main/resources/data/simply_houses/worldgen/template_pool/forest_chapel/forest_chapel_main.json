@@ -1,0 +1,15 @@
+{
+  "name": "simply_houses:forest_chapel/forest_chapel_main",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "simply_houses:forest_chapel/forest_chapel",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

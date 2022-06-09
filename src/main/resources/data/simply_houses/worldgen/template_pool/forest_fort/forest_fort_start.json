@@ -1,0 +1,15 @@
+{
+  "name": "simply_houses:forest_fort/forest_fort_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "simply_houses:forest_fort/forest_fort_ground",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
